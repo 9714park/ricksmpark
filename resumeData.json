@@ -1,0 +1,195 @@
+{
+  "main": {
+    "name": "Rick Park",
+    "occupation": "(Your Occupation Here)",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profile_img.jpg",
+    "bio": "Software developer student at Seneca College with strong background in full-stack web development. Various project experience in data communication and network, mobile application development, and RESTful Web APIs.",
+    "contactmessage": "Contact form still in progress... please refer to sending an message through email. Thank you.",
+    "email": "rick.sm.park@gmail.com",
+    "phone": "647-461-2780",
+    "address": {
+      "street": "5 Sheppard Ave",
+      "city": "Toronto",
+      "Ontario": "Ontario",
+      "zip": "M2N 0G4"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "./rick_park_resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ricksmpark/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/smpark_95/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/9714park",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "skype:+16474612780?call",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Seneca College",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2007",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "School #1 Maybe College?",
+        "degree": "What did you study 101",
+        "graduated": "March 2003",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "programming_language": [
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Dart",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      }
+    ],
+    "web_development": [
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Express",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "70%"
+      },
+      {
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Sass",
+        "level": "60%"
+      }
+    ],
+    "mobile_development": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Grocery List Mobile App - Flutter",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Keyboard Logging Daemon - Python",
+        "category": "Client/server application that logs keyboard inputs and send logged files through SFTP",
+        "image": "fury-fighting-gear.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Robot Command Interface - C++",
+        "category": "Data communication between a robot controller simulator using telemetry packtets and multi-threaded sockets",
+        "image": "original-thai-food.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Car Assembly Line Simulator - Java",
+        "category": "Simulates a GUI that displays the status of each assembly station for building parts of a vehicle",
+        "image": "../images/coming-soon.png",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Rick is a very smart and creative individual. He always finds a way around challenging problems we encountered during our work together. He is also very punctual and has great communication skills.",
+        "user": "Brian Smith"
+      },
+      {
+        "text": "Rick is a hard working individual with great work ethics. He is always looking towards learning and mastering new things. Rick is a passionate developer with excellent problem solving skills that has led us to achieve a high score on many projects that we have worked on.",
+        "user": "Abiram Kaimathuruthy"
+      }
+    ]
+  }
+}
