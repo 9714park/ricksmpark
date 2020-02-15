@@ -155,21 +155,21 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Grocery List Mobile App - Flutter",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "#"
+        "title": "Book List Mobile App - Flutter",
+        "category": "Displays New York Times best sellers books. The users can view the latest books and save them for later viewing.",
+        "image": "book_list.png",
+        "url": "https://github.com/Digital-Vault/Thunder"
       },
       {
         "title": "Keyboard Logging Daemon - Python",
         "category": "Client/server application that logs keyboard inputs and send logged files through SFTP",
-        "image": "fury-fighting-gear.jpg",
-        "url": "#"
+        "image": "daemonKeylog.png",
+        "url": "https://github.com/9714park/daemonizedKeyboardLogger"
       },
       {
         "title": "Robot Command Interface - C++",
         "category": "Data communication between a robot controller simulator using telemetry packtets and multi-threaded sockets",
-        "image": "original-thai-food.jpg",
+        "image": "coming-soon.png",
         "url": "#"
       },
       {
