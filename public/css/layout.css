@@ -518,7 +518,7 @@ ul#nav li.current a {
 }  */
 
 /* ------------------------------------------------------------------ */
-/* e. Portfolio Section
+/* e. Section
 /* ------------------------------------------------------------------ */
 
 #portfolio {
@@ -553,6 +553,11 @@ ul#nav li.current a {
 .portfolio-item .item-wrap a {
   display: block;
   cursor: pointer;
+}
+.portfolio-item .item-wrap img {
+  width: 25rem;
+  height: 15rem;
+  object-fit: cover;
 }
 
 /* overlay */
