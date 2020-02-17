@@ -155,6 +155,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Website Portfolio - React",
+        "category": "My portfolio website",
+        "image": "website_portfolio.png",
+        "url": "#"
+      },
+      {
         "title": "Book List Mobile App - Flutter",
         "category": "Displays New York Times best sellers books. The users can view the latest books and save them for later viewing.",
         "image": "book_list.png",
@@ -174,6 +180,12 @@
       },
       {
         "title": "Car Assembly Line Simulator - Java",
+        "category": "Simulates a GUI that displays the status of each assembly station for building parts of a vehicle",
+        "image": "coming-soon.png",
+        "url": "#"
+      },
+      {
+        "title": "Tempo Tester Game - React",
         "category": "Simulates a GUI that displays the status of each assembly station for building parts of a vehicle",
         "image": "coming-soon.png",
         "url": "#"
