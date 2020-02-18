@@ -173,6 +173,12 @@
         "url": "https://github.com/9714park/daemonizedKeyboardLogger"
       },
       {
+        "title": "Tempo Tester Game - React",
+        "category": "Test your ability to keep track of the beat by clicking on the browser screen.",
+        "image": "coming-soon.png",
+        "url": "https://github.com/9714park/Tempo-Tester"
+      },
+      {
         "title": "Robot Command Interface - C++",
         "category": "Data communication between a robot controller simulator using telemetry packtets and multi-threaded sockets",
         "image": "coming-soon.png",
@@ -180,12 +186,6 @@
       },
       {
         "title": "Car Assembly Line Simulator - Java",
-        "category": "Simulates a GUI that displays the status of each assembly station for building parts of a vehicle",
-        "image": "coming-soon.png",
-        "url": "#"
-      },
-      {
-        "title": "Tempo Tester Game - React",
         "category": "Simulates a GUI that displays the status of each assembly station for building parts of a vehicle",
         "image": "coming-soon.png",
         "url": "#"
