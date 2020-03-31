@@ -155,6 +155,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Website Portfolio - React",
+        "category": "My portfolio website",
+        "image": "website_portfolio.png",
+        "url": "#"
+      },
+      {
         "title": "Book List Mobile App - Flutter",
         "category": "Displays New York Times best sellers books. The users can view the latest books and save them for later viewing.",
         "image": "book_list.png",
@@ -164,7 +170,19 @@
         "title": "Keyboard Logging Daemon - Python",
         "category": "Client/server application that logs keyboard inputs and send logged files through SFTP",
         "image": "daemonKeylog.png",
+        "url": "https://github.com/9714park/SoftwareDevTermDictionary"
+      },
+      {
+        "title": "Software Developer Terms Dictionary- Angular/Express",
+        "category": "Online dictionary that holds software development terms in English and other languages",
+        "image": "software_development_dictionary.png",
         "url": "https://github.com/9714park/daemonizedKeyboardLogger"
+      },
+      {
+        "title": "Tempo Tester Game - React",
+        "category": "Test your ability to keep track of the beat by clicking on the browser screen.",
+        "image": "coming-soon.png",
+        "url": "https://github.com/9714park/Tempo-Tester"
       },
       {
         "title": "Robot Command Interface - C++",
