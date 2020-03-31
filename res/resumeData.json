@@ -170,6 +170,12 @@
         "title": "Keyboard Logging Daemon - Python",
         "category": "Client/server application that logs keyboard inputs and send logged files through SFTP",
         "image": "daemonKeylog.png",
+        "url": "https://github.com/9714park/SoftwareDevTermDictionary"
+      },
+      {
+        "title": "Software Developer Terms Dictionary- Angular/Express",
+        "category": "Online dictionary that holds software development terms in English and other languages",
+        "image": "software_development_dictionary.png",
         "url": "https://github.com/9714park/daemonizedKeyboardLogger"
       },
       {
